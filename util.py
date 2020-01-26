@@ -24,5 +24,7 @@ def take_picture_win():
    cv2.destroyAllWindows()
    return file_name, img
 
+
 def take_picture_raspi():
    raise NotImplementedError
+
