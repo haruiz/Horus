@@ -6,10 +6,14 @@ config = {
 		"AZURE_AUTH_URI": "https://westus.api.cognitive.microsoft.com/sts/v1.0"
 	},
 	"VISION":{
-		"AZURE_API_KEY": "d3cffe39b48d4981b7037f6a1b342b15",
-		"AZURE_API_URI": "https://westcentralus.api.cognitive.microsoft.com/vision"
+		"AZURE_API_KEY": "0518fe99b4c345dba4220601e91b2dd2",
+		"AZURE_API_URI": "https://vision-cs.cognitiveservices.azure.com/vision"
 	},
 	"TAMU_ROUTES":{
 		"ENDPOINT": "https://transport.tamu.edu/BusRoutesFeed/api/Route"
+	},
+	"FACE": {
+		"AZURE_API_KEY": "ae532067829742b18d6df530804e7b14",
+		"AZURE_API_URI": "https://face-cs.cognitiveservices.azure.com"
 	}
 }

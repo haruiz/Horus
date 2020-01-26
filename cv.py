@@ -20,7 +20,17 @@ def analize_image(img_file):
    return objects, captions if response.status_code == 200 else None
 
 def analize_people(img_file):
-   pass
+   subscription_key = config["FACE"]["AZURE_API_KEY"]
+   endpoint = config["FACE"]["AZURE_API_URI"]
+   endpoint = "{}/face/v1.0/detect?returnFaceAttributes=age,gender,emotion,hair,accessories".format(endpoint)   
+   with open(img_file, "rb") as fr:
+       content = fr.read()   
+   response = requests.post(endpoint, data=content, headers={
+      "Ocp-Apim-Subscription-Key": subscription_key,
+      "Content-Type": "application/octet-stream"
+   })   
+   response_dict = response.json() 
+   return response_dict
 
 def show_objects(img_file, objects):
    img = cv2.imread(img_file)
@@ -39,5 +49,4 @@ def determine_region(img, pt):
    n = 3
    roi_width, roi_names =  math.ceil(w / n), ["left", "center", "right"]
    return [ roi_names[i] for i in range(n) if (i * roi_width + roi_width >= pt[0] > i * roi_width)]
-         
          
