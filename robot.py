@@ -36,13 +36,13 @@ class Robot:
                   msg = msg.lower()
                   if any(map(lambda  x: x in msg,["picture", "photo"])):                     
                      self._analize_photo("description")
-                  if any(map(lambda  x: x in msg,["person", "persons", "people"])):                     
+                  elif any(map(lambda  x: x in msg,["person", "persons", "people"])):                     
                      self._analize_photo("persons")
-                  elif "hi" in msg:
+                  elif any(map(lambda  x: x in msg,["hi", "hello"])):
                      self._hi()
                   elif "joke" in msg:
                      self._joke()      
-                  elif "play" in msg:
+                  elif any(map(lambda  x: x in msg,["route", "bus"])):                  
                      temp = re.findall(r'\d+', msg) 
                      res = list(map(int, temp)) 
                      if len(res) > 0:
