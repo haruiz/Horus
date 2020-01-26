@@ -38,5 +38,3 @@ def determine_region(img, pt):
    return [ roi_names[i] for i in range(n) if (i * roi_width + roi_width >= pt[0] > i * roi_width)]
          
          
-if __name__ == "__main__":
-    print(determine_region("img.jpg", (600,0)))

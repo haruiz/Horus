@@ -2,6 +2,7 @@ import requests
 from config import config
 import json
 import os
+import tempfile
 
 def get_token():
 	subscription_key = config["SPEECH"]["AZURE_API_KEY"]
@@ -31,12 +32,13 @@ def t2s(message, voice):
 		"X-Microsoft-OutputFormat": "riff-16khz-16bit-mono-pcm"
 	})
    if response.status_code == 200:
-      out_file = 'message.wav'
-      with open(out_file, 'wb') as audio:
+      with tempfile.NamedTemporaryFile(suffix=".wav") as temp:
+            file_name = temp.name
+      with open(file_name, 'wb') as audio:
          audio.write(response.content)
          print("\nStatus code: " + str(response.status_code) +
                "\nYour TTS is ready for playback.\n")      
-      return out_file   
+      return file_name   
    else:
       print("\nStatus code: " + str(response.status_code) +
             "\nSomething went wrong. Check your subscription key and headers.\n")

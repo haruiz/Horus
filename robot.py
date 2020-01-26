@@ -7,6 +7,9 @@ from sys import platform
 from util import take_picture_win
 from playsound import playsound
 from collections import Counter
+import sounddevice as sd
+from scipy.io.wavfile import write
+import speech_recognition as sr    
 
 class Robot:
    def __init__(self, name="Scrappy", voice="en-US-JessaRUS"):
@@ -15,12 +18,23 @@ class Robot:
       self.voice = voices[voice]      
 
    def listen(self, input="./speech.wav"):
-      lan = self.voice["Locale"]
-      message = s2t(input, lan).lower()
-      if "take a picture" in message:
-         self._take_photo()
-      
-   
+      def callback(recognizer, audio):
+         try:
+            print("I listen something!! {}".format(e))
+            with open(input, "wb") as f:
+               f.write(audio.get_wav_data())
+            lan = self.voice["Locale"]
+            msg = s2t(input,lan)
+            if msg and isinstance(msg, str):
+               if "picture" in msg.lower():
+                  self._take_photo()
+         except Exception as e:
+            print("Oops! Didn't catch that {}".format(e))      
+      r = sr.Recognizer()
+      r.listen_in_background(sr.Microphone(), callback)
+      import time
+      while True: time.sleep(0.1)# liste in background for ever      
+
    def say(self, message):
       if platform == "win32":
          audio_file = t2s(message, self.voice)
@@ -49,7 +63,7 @@ class Robot:
          img_file, img_arr = take_picture_win() # take a picture in window         
          objects, captions = analize_image(img_file)
          self.say(self._make_speak(img_arr, objects, captions))      
-                  
+
 
 if __name__ == "__main__":
     bot = Robot(voice="en-US-BenjaminRUS")
