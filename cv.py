@@ -7,9 +7,9 @@ import cv2
 def analize_image(img_file):
    subscription_key = config["VISION"]["AZURE_API_KEY"]
    endpoint = config["VISION"]["AZURE_API_URI"]
-   endpoint = "{}/v2.1/analyze?visualFeatures=Objects,Categories,Description,Color".format(endpoint)
+   endpoint = "{}/v2.1/analyze?visualFeatures=Objects,Categories,Description,Color".format(endpoint)   
    with open(img_file, "rb") as fr:
-      content = fr.read()
+       content = fr.read()   
    response = requests.post(endpoint, data=content, headers={
       "Ocp-Apim-Subscription-Key": subscription_key,
       "Content-Type": "application/octet-stream"
@@ -18,6 +18,9 @@ def analize_image(img_file):
    objects = response_dict["objects"]
    captions = response_dict["description"]["captions"]
    return objects, captions if response.status_code == 200 else None
+
+def analize_people(img_file):
+   pass
 
 def show_objects(img_file, objects):
    img = cv2.imread(img_file)
