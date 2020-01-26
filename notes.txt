@@ -1,0 +1,5 @@
+object_names = dict(Counter(object_names))
+         print(object_names)
+         objects_str = ["{} {}".format(v,k) if v> 1 else k for k,v in object_names.items()]
+         message = ''' Hey I'm here!!, the objects that I found were: {}'''.format(objects_str)
+         self.say(message)

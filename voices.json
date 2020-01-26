@@ -1,0 +1,650 @@
+[
+    {
+        "Gender": "Female",
+        "Locale": "ar-EG",
+        "Name": "Microsoft Server Speech Text to Speech Voice (ar-EG, Hoda)",
+        "SampleRateHertz": "16000",
+        "ShortName": "ar-EG-Hoda",
+        "VoiceType": "Standard"
+    },
+    {
+        "Gender": "Male",
+        "Locale": "ar-SA",
+        "Name": "Microsoft Server Speech Text to Speech Voice (ar-SA, Naayf)",
+        "SampleRateHertz": "16000",
+        "ShortName": "ar-SA-Naayf",
+        "VoiceType": "Standard"
+    },
+    {
+        "Gender": "Male",
+        "Locale": "bg-BG",
+        "Name": "Microsoft Server Speech Text to Speech Voice (bg-BG, Ivan)",
+        "SampleRateHertz": "16000",
+        "ShortName": "bg-BG-Ivan",
+        "VoiceType": "Standard"
+    },
+    {
+        "Gender": "Female",
+        "Locale": "ca-ES",
+        "Name": "Microsoft Server Speech Text to Speech Voice (ca-ES, HerenaRUS)",
+        "SampleRateHertz": "16000",
+        "ShortName": "ca-ES-HerenaRUS",
+        "VoiceType": "Standard"
+    },
+    {
+        "Gender": "Male",
+        "Locale": "cs-CZ",
+        "Name": "Microsoft Server Speech Text to Speech Voice (cs-CZ, Jakub)",
+        "SampleRateHertz": "16000",
+        "ShortName": "cs-CZ-Jakub",
+        "VoiceType": "Standard"
+    },
+    {
+        "Gender": "Female",
+        "Locale": "da-DK",
+        "Name": "Microsoft Server Speech Text to Speech Voice (da-DK, HelleRUS)",
+        "SampleRateHertz": "16000",
+        "ShortName": "da-DK-HelleRUS",
+        "VoiceType": "Standard"
+    },
+    {
+        "Gender": "Male",
+        "Locale": "de-AT",
+        "Name": "Microsoft Server Speech Text to Speech Voice (de-AT, Michael)",
+        "SampleRateHertz": "16000",
+        "ShortName": "de-AT-Michael",
+        "VoiceType": "Standard"
+    },
+    {
+        "Gender": "Male",
+        "Locale": "de-CH",
+        "Name": "Microsoft Server Speech Text to Speech Voice (de-CH, Karsten)",
+        "SampleRateHertz": "16000",
+        "ShortName": "de-CH-Karsten",
+        "VoiceType": "Standard"
+    },
+    {
+        "Gender": "Female",
+        "Locale": "de-DE",
+        "Name": "Microsoft Server Speech Text to Speech Voice (de-DE, Hedda)",
+        "SampleRateHertz": "16000",
+        "ShortName": "de-DE-Hedda",
+        "VoiceType": "Standard"
+    },
+    {
+        "Gender": "Female",
+        "Locale": "de-DE",
+        "Name": "Microsoft Server Speech Text to Speech Voice (de-DE, HeddaRUS)",
+        "SampleRateHertz": "16000",
+        "ShortName": "de-DE-HeddaRUS",
+        "VoiceType": "Standard"
+    },
+    {
+        "Gender": "Male",
+        "Locale": "de-DE",
+        "Name": "Microsoft Server Speech Text to Speech Voice (de-DE, Stefan, Apollo)",
+        "SampleRateHertz": "16000",
+        "ShortName": "de-DE-Stefan-Apollo",
+        "VoiceType": "Standard"
+    },
+    {
+        "Gender": "Male",
+        "Locale": "el-GR",
+        "Name": "Microsoft Server Speech Text to Speech Voice (el-GR, Stefanos)",
+        "SampleRateHertz": "16000",
+        "ShortName": "el-GR-Stefanos",
+        "VoiceType": "Standard"
+    },
+    {
+        "Gender": "Female",
+        "Locale": "en-AU",
+        "Name": "Microsoft Server Speech Text to Speech Voice (en-AU, Catherine)",
+        "SampleRateHertz": "16000",
+        "ShortName": "en-AU-Catherine",
+        "VoiceType": "Standard"
+    },
+    {
+        "Gender": "Female",
+        "Locale": "en-AU",
+        "Name": "Microsoft Server Speech Text to Speech Voice (en-AU, HayleyRUS)",
+        "SampleRateHertz": "16000",
+        "ShortName": "en-AU-HayleyRUS",
+        "VoiceType": "Standard"
+    },
+    {
+        "Gender": "Female",
+        "Locale": "en-CA",
+        "Name": "Microsoft Server Speech Text to Speech Voice (en-CA, Linda)",
+        "SampleRateHertz": "16000",
+        "ShortName": "en-CA-Linda",
+        "VoiceType": "Standard"
+    },
+    {
+        "Gender": "Female",
+        "Locale": "en-CA",
+        "Name": "Microsoft Server Speech Text to Speech Voice (en-CA, HeatherRUS)",
+        "SampleRateHertz": "16000",
+        "ShortName": "en-CA-HeatherRUS",
+        "VoiceType": "Standard"
+    },
+    {
+        "Gender": "Male",
+        "Locale": "en-GB",
+        "Name": "Microsoft Server Speech Text to Speech Voice (en-GB, George, Apollo)",
+        "SampleRateHertz": "16000",
+        "ShortName": "en-GB-George-Apollo",
+        "VoiceType": "Standard"
+    },
+    {
+        "Gender": "Female",
+        "Locale": "en-GB",
+        "Name": "Microsoft Server Speech Text to Speech Voice (en-GB, HazelRUS)",
+        "SampleRateHertz": "16000",
+        "ShortName": "en-GB-HazelRUS",
+        "VoiceType": "Standard"
+    },
+    {
+        "Gender": "Female",
+        "Locale": "en-GB",
+        "Name": "Microsoft Server Speech Text to Speech Voice (en-GB, Susan, Apollo)",
+        "SampleRateHertz": "16000",
+        "ShortName": "en-GB-Susan-Apollo",
+        "VoiceType": "Standard"
+    },
+    {
+        "Gender": "Male",
+        "Locale": "en-IE",
+        "Name": "Microsoft Server Speech Text to Speech Voice (en-IE, Sean)",
+        "SampleRateHertz": "16000",
+        "ShortName": "en-IE-Sean",
+        "VoiceType": "Standard"
+    },
+    {
+        "Gender": "Female",
+        "Locale": "en-IN",
+        "Name": "Microsoft Server Speech Text to Speech Voice (en-IN, Heera, Apollo)",
+        "SampleRateHertz": "16000",
+        "ShortName": "en-IN-Heera-Apollo",
+        "VoiceType": "Standard"
+    },
+    {
+        "Gender": "Female",
+        "Locale": "en-IN",
+        "Name": "Microsoft Server Speech Text to Speech Voice (en-IN, PriyaRUS)",
+        "SampleRateHertz": "16000",
+        "ShortName": "en-IN-PriyaRUS",
+        "VoiceType": "Standard"
+    },
+    {
+        "Gender": "Male",
+        "Locale": "en-IN",
+        "Name": "Microsoft Server Speech Text to Speech Voice (en-IN, Ravi, Apollo)",
+        "SampleRateHertz": "16000",
+        "ShortName": "en-IN-Ravi-Apollo",
+        "VoiceType": "Standard"
+    },
+    {
+        "Gender": "Male",
+        "Locale": "en-US",
+        "Name": "Microsoft Server Speech Text to Speech Voice (en-US, BenjaminRUS)",
+        "SampleRateHertz": "16000",
+        "ShortName": "en-US-BenjaminRUS",
+        "VoiceType": "Standard"
+    },
+    {
+        "Gender": "Male",
+        "Locale": "en-US",
+        "Name": "Microsoft Server Speech Text to Speech Voice (en-US, Guy24kRUS)",
+        "SampleRateHertz": "24000",
+        "ShortName": "en-US-Guy24kRUS",
+        "VoiceType": "Standard"
+    },
+    {
+        "Gender": "Female",
+        "Locale": "en-US",
+        "Name": "Microsoft Server Speech Text to Speech Voice (en-US, JessaRUS)",
+        "SampleRateHertz": "16000",
+        "ShortName": "en-US-JessaRUS",
+        "VoiceType": "Standard"
+    },
+    {
+        "Gender": "Female",
+        "Locale": "en-US",
+        "Name": "Microsoft Server Speech Text to Speech Voice (en-US, Jessa24kRUS)",
+        "SampleRateHertz": "24000",
+        "ShortName": "en-US-Jessa24kRUS",
+        "VoiceType": "Standard"
+    },
+    {
+        "Gender": "Female",
+        "Locale": "en-US",
+        "Name": "Microsoft Server Speech Text to Speech Voice (en-US, ZiraRUS)",
+        "SampleRateHertz": "16000",
+        "ShortName": "en-US-ZiraRUS",
+        "VoiceType": "Standard"
+    },
+    {
+        "Gender": "Female",
+        "Locale": "es-ES",
+        "Name": "Microsoft Server Speech Text to Speech Voice (es-ES, HelenaRUS)",
+        "SampleRateHertz": "16000",
+        "ShortName": "es-ES-HelenaRUS",
+        "VoiceType": "Standard"
+    },
+    {
+        "Gender": "Female",
+        "Locale": "es-ES",
+        "Name": "Microsoft Server Speech Text to Speech Voice (es-ES, Laura, Apollo)",
+        "SampleRateHertz": "16000",
+        "ShortName": "es-ES-Laura-Apollo",
+        "VoiceType": "Standard"
+    },
+    {
+        "Gender": "Male",
+        "Locale": "es-ES",
+        "Name": "Microsoft Server Speech Text to Speech Voice (es-ES, Pablo, Apollo)",
+        "SampleRateHertz": "16000",
+        "ShortName": "es-ES-Pablo-Apollo",
+        "VoiceType": "Standard"
+    },
+    {
+        "Gender": "Female",
+        "Locale": "es-MX",
+        "Name": "Microsoft Server Speech Text to Speech Voice (es-MX, HildaRUS)",
+        "SampleRateHertz": "16000",
+        "ShortName": "es-MX-HildaRUS",
+        "VoiceType": "Standard"
+    },
+    {
+        "Gender": "Male",
+        "Locale": "es-MX",
+        "Name": "Microsoft Server Speech Text to Speech Voice (es-MX, Raul, Apollo)",
+        "SampleRateHertz": "16000",
+        "ShortName": "es-MX-Raul-Apollo",
+        "VoiceType": "Standard"
+    },
+    {
+        "Gender": "Female",
+        "Locale": "fi-FI",
+        "Name": "Microsoft Server Speech Text to Speech Voice (fi-FI, HeidiRUS)",
+        "SampleRateHertz": "16000",
+        "ShortName": "fi-FI-HeidiRUS",
+        "VoiceType": "Standard"
+    },
+    {
+        "Gender": "Female",
+        "Locale": "fr-CA",
+        "Name": "Microsoft Server Speech Text to Speech Voice (fr-CA, Caroline)",
+        "SampleRateHertz": "16000",
+        "ShortName": "fr-CA-Caroline",
+        "VoiceType": "Standard"
+    },
+    {
+        "Gender": "Female",
+        "Locale": "fr-CA",
+        "Name": "Microsoft Server Speech Text to Speech Voice (fr-CA, HarmonieRUS)",
+        "SampleRateHertz": "16000",
+        "ShortName": "fr-CA-HarmonieRUS",
+        "VoiceType": "Standard"
+    },
+    {
+        "Gender": "Male",
+        "Locale": "fr-CH",
+        "Name": "Microsoft Server Speech Text to Speech Voice (fr-CH, Guillaume)",
+        "SampleRateHertz": "16000",
+        "ShortName": "fr-CH-Guillaume",
+        "VoiceType": "Standard"
+    },
+    {
+        "Gender": "Female",
+        "Locale": "fr-FR",
+        "Name": "Microsoft Server Speech Text to Speech Voice (fr-FR, HortenseRUS)",
+        "SampleRateHertz": "16000",
+        "ShortName": "fr-FR-HortenseRUS",
+        "VoiceType": "Standard"
+    },
+    {
+        "Gender": "Female",
+        "Locale": "fr-FR",
+        "Name": "Microsoft Server Speech Text to Speech Voice (fr-FR, Julie, Apollo)",
+        "SampleRateHertz": "16000",
+        "ShortName": "fr-FR-Julie-Apollo",
+        "VoiceType": "Standard"
+    },
+    {
+        "Gender": "Male",
+        "Locale": "fr-FR",
+        "Name": "Microsoft Server Speech Text to Speech Voice (fr-FR, Paul, Apollo)",
+        "SampleRateHertz": "16000",
+        "ShortName": "fr-FR-Paul-Apollo",
+        "VoiceType": "Standard"
+    },
+    {
+        "Gender": "Male",
+        "Locale": "he-IL",
+        "Name": "Microsoft Server Speech Text to Speech Voice (he-IL, Asaf)",
+        "SampleRateHertz": "16000",
+        "ShortName": "he-IL-Asaf",
+        "VoiceType": "Standard"
+    },
+    {
+        "Gender": "Male",
+        "Locale": "hi-IN",
+        "Name": "Microsoft Server Speech Text to Speech Voice (hi-IN, Hemant)",
+        "SampleRateHertz": "16000",
+        "ShortName": "hi-IN-Hemant",
+        "VoiceType": "Standard"
+    },
+    {
+        "Gender": "Female",
+        "Locale": "hi-IN",
+        "Name": "Microsoft Server Speech Text to Speech Voice (hi-IN, Kalpana, Apollo)",
+        "SampleRateHertz": "16000",
+        "ShortName": "hi-IN-Kalpana-Apollo",
+        "VoiceType": "Standard"
+    },
+    {
+        "Gender": "Female",
+        "Locale": "hi-IN",
+        "Name": "Microsoft Server Speech Text to Speech Voice (hi-IN, Kalpana)",
+        "SampleRateHertz": "16000",
+        "ShortName": "hi-IN-Kalpana",
+        "VoiceType": "Standard"
+    },
+    {
+        "Gender": "Male",
+        "Locale": "hr-HR",
+        "Name": "Microsoft Server Speech Text to Speech Voice (hr-HR, Matej)",
+        "SampleRateHertz": "16000",
+        "ShortName": "hr-HR-Matej",
+        "VoiceType": "Standard"
+    },
+    {
+        "Gender": "Male",
+        "Locale": "hu-HU",
+        "Name": "Microsoft Server Speech Text to Speech Voice (hu-HU, Szabolcs)",
+        "SampleRateHertz": "16000",
+        "ShortName": "hu-HU-Szabolcs",
+        "VoiceType": "Standard"
+    },
+    {
+        "Gender": "Male",
+        "Locale": "id-ID",
+        "Name": "Microsoft Server Speech Text to Speech Voice (id-ID, Andika)",
+        "SampleRateHertz": "16000",
+        "ShortName": "id-ID-Andika",
+        "VoiceType": "Standard"
+    },
+    {
+        "Gender": "Male",
+        "Locale": "it-IT",
+        "Name": "Microsoft Server Speech Text to Speech Voice (it-IT, Cosimo, Apollo)",
+        "SampleRateHertz": "16000",
+        "ShortName": "it-IT-Cosimo-Apollo",
+        "VoiceType": "Standard"
+    },
+    {
+        "Gender": "Female",
+        "Locale": "it-IT",
+        "Name": "Microsoft Server Speech Text to Speech Voice (it-IT, LuciaRUS)",
+        "SampleRateHertz": "16000",
+        "ShortName": "it-IT-LuciaRUS",
+        "VoiceType": "Standard"
+    },
+    {
+        "Gender": "Female",
+        "Locale": "ja-JP",
+        "Name": "Microsoft Server Speech Text to Speech Voice (ja-JP, Ayumi, Apollo)",
+        "SampleRateHertz": "16000",
+        "ShortName": "ja-JP-Ayumi-Apollo",
+        "VoiceType": "Standard"
+    },
+    {
+        "Gender": "Female",
+        "Locale": "ja-JP",
+        "Name": "Microsoft Server Speech Text to Speech Voice (ja-JP, HarukaRUS)",
+        "SampleRateHertz": "16000",
+        "ShortName": "ja-JP-HarukaRUS",
+        "VoiceType": "Standard"
+    },
+    {
+        "Gender": "Male",
+        "Locale": "ja-JP",
+        "Name": "Microsoft Server Speech Text to Speech Voice (ja-JP, Ichiro, Apollo)",
+        "SampleRateHertz": "16000",
+        "ShortName": "ja-JP-Ichiro-Apollo",
+        "VoiceType": "Standard"
+    },
+    {
+        "Gender": "Female",
+        "Locale": "ko-KR",
+        "Name": "Microsoft Server Speech Text to Speech Voice (ko-KR, HeamiRUS)",
+        "SampleRateHertz": "16000",
+        "ShortName": "ko-KR-HeamiRUS",
+        "VoiceType": "Standard"
+    },
+    {
+        "Gender": "Male",
+        "Locale": "ms-MY",
+        "Name": "Microsoft Server Speech Text to Speech Voice (ms-MY, Rizwan)",
+        "SampleRateHertz": "16000",
+        "ShortName": "ms-MY-Rizwan",
+        "VoiceType": "Standard"
+    },
+    {
+        "Gender": "Female",
+        "Locale": "nb-NO",
+        "Name": "Microsoft Server Speech Text to Speech Voice (nb-NO, HuldaRUS)",
+        "SampleRateHertz": "16000",
+        "ShortName": "nb-NO-HuldaRUS",
+        "VoiceType": "Standard"
+    },
+    {
+        "Gender": "Female",
+        "Locale": "nl-NL",
+        "Name": "Microsoft Server Speech Text to Speech Voice (nl-NL, HannaRUS)",
+        "SampleRateHertz": "16000",
+        "ShortName": "nl-NL-HannaRUS",
+        "VoiceType": "Standard"
+    },
+    {
+        "Gender": "Female",
+        "Locale": "pl-PL",
+        "Name": "Microsoft Server Speech Text to Speech Voice (pl-PL, PaulinaRUS)",
+        "SampleRateHertz": "16000",
+        "ShortName": "pl-PL-PaulinaRUS",
+        "VoiceType": "Standard"
+    },
+    {
+        "Gender": "Female",
+        "Locale": "pt-BR",
+        "Name": "Microsoft Server Speech Text to Speech Voice (pt-BR, HeloisaRUS)",
+        "SampleRateHertz": "16000",
+        "ShortName": "pt-BR-HeloisaRUS",
+        "VoiceType": "Standard"
+    },
+    {
+        "Gender": "Male",
+        "Locale": "pt-BR",
+        "Name": "Microsoft Server Speech Text to Speech Voice (pt-BR, Daniel, Apollo)",
+        "SampleRateHertz": "16000",
+        "ShortName": "pt-BR-Daniel-Apollo",
+        "VoiceType": "Standard"
+    },
+    {
+        "Gender": "Female",
+        "Locale": "pt-PT",
+        "Name": "Microsoft Server Speech Text to Speech Voice (pt-PT, HeliaRUS)",
+        "SampleRateHertz": "16000",
+        "ShortName": "pt-PT-HeliaRUS",
+        "VoiceType": "Standard"
+    },
+    {
+        "Gender": "Male",
+        "Locale": "ro-RO",
+        "Name": "Microsoft Server Speech Text to Speech Voice (ro-RO, Andrei)",
+        "SampleRateHertz": "16000",
+        "ShortName": "ro-RO-Andrei",
+        "VoiceType": "Standard"
+    },
+    {
+        "Gender": "Female",
+        "Locale": "ru-RU",
+        "Name": "Microsoft Server Speech Text to Speech Voice (ru-RU, EkaterinaRUS)",
+        "SampleRateHertz": "16000",
+        "ShortName": "ru-RU-EkaterinaRUS",
+        "VoiceType": "Standard"
+    },
+    {
+        "Gender": "Female",
+        "Locale": "ru-RU",
+        "Name": "Microsoft Server Speech Text to Speech Voice (ru-RU, Irina, Apollo)",
+        "SampleRateHertz": "16000",
+        "ShortName": "ru-RU-Irina-Apollo",
+        "VoiceType": "Standard"
+    },
+    {
+        "Gender": "Male",
+        "Locale": "ru-RU",
+        "Name": "Microsoft Server Speech Text to Speech Voice (ru-RU, Pavel, Apollo)",
+        "SampleRateHertz": "16000",
+        "ShortName": "ru-RU-Pavel-Apollo",
+        "VoiceType": "Standard"
+    },
+    {
+        "Gender": "Male",
+        "Locale": "sk-SK",
+        "Name": "Microsoft Server Speech Text to Speech Voice (sk-SK, Filip)",
+        "SampleRateHertz": "16000",
+        "ShortName": "sk-SK-Filip",
+        "VoiceType": "Standard"
+    },
+    {
+        "Gender": "Male",
+        "Locale": "sl-SI",
+        "Name": "Microsoft Server Speech Text to Speech Voice (sl-SI, Lado)",
+        "SampleRateHertz": "16000",
+        "ShortName": "sl-SI-Lado",
+        "VoiceType": "Standard"
+    },
+    {
+        "Gender": "Female",
+        "Locale": "sv-SE",
+        "Name": "Microsoft Server Speech Text to Speech Voice (sv-SE, HedvigRUS)",
+        "SampleRateHertz": "16000",
+        "ShortName": "sv-SE-HedvigRUS",
+        "VoiceType": "Standard"
+    },
+    {
+        "Gender": "Male",
+        "Locale": "ta-IN",
+        "Name": "Microsoft Server Speech Text to Speech Voice (ta-IN, Valluvar)",
+        "SampleRateHertz": "16000",
+        "ShortName": "ta-IN-Valluvar",
+        "VoiceType": "Standard"
+    },
+    {
+        "Gender": "Female",
+        "Locale": "te-IN",
+        "Name": "Microsoft Server Speech Text to Speech Voice (te-IN, Chitra)",
+        "SampleRateHertz": "16000",
+        "ShortName": "te-IN-Chitra",
+        "VoiceType": "Standard"
+    },
+    {
+        "Gender": "Male",
+        "Locale": "th-TH",
+        "Name": "Microsoft Server Speech Text to Speech Voice (th-TH, Pattara)",
+        "SampleRateHertz": "16000",
+        "ShortName": "th-TH-Pattara",
+        "VoiceType": "Standard"
+    },
+    {
+        "Gender": "Female",
+        "Locale": "tr-TR",
+        "Name": "Microsoft Server Speech Text to Speech Voice (tr-TR, SedaRUS)",
+        "SampleRateHertz": "16000",
+        "ShortName": "tr-TR-SedaRUS",
+        "VoiceType": "Standard"
+    },
+    {
+        "Gender": "Male",
+        "Locale": "vi-VN",
+        "Name": "Microsoft Server Speech Text to Speech Voice (vi-VN, An)",
+        "SampleRateHertz": "16000",
+        "ShortName": "vi-VN-An",
+        "VoiceType": "Standard"
+    },
+    {
+        "Gender": "Female",
+        "Locale": "zh-CN",
+        "Name": "Microsoft Server Speech Text to Speech Voice (zh-CN, HuihuiRUS)",
+        "SampleRateHertz": "16000",
+        "ShortName": "zh-CN-HuihuiRUS",
+        "VoiceType": "Standard"
+    },
+    {
+        "Gender": "Male",
+        "Locale": "zh-CN",
+        "Name": "Microsoft Server Speech Text to Speech Voice (zh-CN, Kangkang, Apollo)",
+        "SampleRateHertz": "16000",
+        "ShortName": "zh-CN-Kangkang-Apollo",
+        "VoiceType": "Standard"
+    },
+    {
+        "Gender": "Female",
+        "Locale": "zh-CN",
+        "Name": "Microsoft Server Speech Text to Speech Voice (zh-CN, Yaoyao, Apollo)",
+        "SampleRateHertz": "16000",
+        "ShortName": "zh-CN-Yaoyao-Apollo",
+        "VoiceType": "Standard"
+    },
+    {
+        "Gender": "Female",
+        "Locale": "zh-HK",
+        "Name": "Microsoft Server Speech Text to Speech Voice (zh-HK, Tracy, Apollo)",
+        "SampleRateHertz": "16000",
+        "ShortName": "zh-HK-Tracy-Apollo",
+        "VoiceType": "Standard"
+    },
+    {
+        "Gender": "Female",
+        "Locale": "zh-HK",
+        "Name": "Microsoft Server Speech Text to Speech Voice (zh-HK, TracyRUS)",
+        "SampleRateHertz": "16000",
+        "ShortName": "zh-HK-TracyRUS",
+        "VoiceType": "Standard"
+    },
+    {
+        "Gender": "Male",
+        "Locale": "zh-HK",
+        "Name": "Microsoft Server Speech Text to Speech Voice (zh-HK, Danny, Apollo)",
+        "SampleRateHertz": "16000",
+        "ShortName": "zh-HK-Danny-Apollo",
+        "VoiceType": "Standard"
+    },
+    {
+        "Gender": "Female",
+        "Locale": "zh-TW",
+        "Name": "Microsoft Server Speech Text to Speech Voice (zh-TW, HanHanRUS)",
+        "SampleRateHertz": "16000",
+        "ShortName": "zh-TW-HanHanRUS",
+        "VoiceType": "Standard"
+    },
+    {
+        "Gender": "Female",
+        "Locale": "zh-TW",
+        "Name": "Microsoft Server Speech Text to Speech Voice (zh-TW, Yating, Apollo)",
+        "SampleRateHertz": "16000",
+        "ShortName": "zh-TW-Yating-Apollo",
+        "VoiceType": "Standard"
+    },
+    {
+        "Gender": "Male",
+        "Locale": "zh-TW",
+        "Name": "Microsoft Server Speech Text to Speech Voice (zh-TW, Zhiwei, Apollo)",
+        "SampleRateHertz": "16000",
+        "ShortName": "zh-TW-Zhiwei-Apollo",
+        "VoiceType": "Standard"
+    }
+]
