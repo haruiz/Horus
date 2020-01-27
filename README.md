@@ -1,4 +1,4 @@
-# Horus (cloud-based voice assistant / smart glasses)
+# Horus (cloud-based voice assistant)
 
 ## Description
 
